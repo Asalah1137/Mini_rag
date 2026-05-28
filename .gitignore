@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+qdrant_db/
+src/assets/files/
+src/assets/database/
+docker/mongodata/
